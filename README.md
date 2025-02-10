@@ -38,9 +38,6 @@ Example output:
 
 Phishing Analysis Result: High Risk - Likely Phishing
 
-📜 License
-
-This project is licensed under the MIT License.
 
 🤝 Contributing
 
